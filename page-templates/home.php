@@ -91,6 +91,19 @@
                         <div class="absolute top-[1966px] left-[-85px] right-[-85px]">
                             <img src="/wp-content/themes/progold/img/local/roller.png" alt="">
                         </div>
+
+                        <!-- confetti -->
+                        <div class="absolute top-[490px] left-[10px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[950px] left-[60px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[2200px] left-[-40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
+                        </div>
                     </div>
                     <div class="h-full w-[380px] relative">
                         <div class="absolute top-[240px] left-[-45px]">
@@ -101,6 +114,17 @@
                         </div>
                         <div class="absolute top-[2250px] left-[50px] right-[-220px]">
                             <img src="/wp-content/themes/progold/img/local/Group 32.png" alt="">
+                        </div>
+
+                        <!-- confetti - right -->
+                        <div class="absolute top-[40px] right-[40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
+                        </div>
+                        <div class="absolute top-[950px] right-[-40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
+                        </div>
+                        <div class="absolute top-[1400px] left-[-200px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-d.png" alt="">
                         </div>
                     </div>
                 </div>
