@@ -56,9 +56,7 @@ switch ($get_number_month) {
         break;
 }
 
-
-
- ?>
+?>
 
 <main class="overflow-hidden relative">
     <section class="relative z-[3] mt-6 overflow-hidden ">
