@@ -1,0 +1,23 @@
+{
+    "key": "ui_options_page_65a8ebf637633",
+    "title": "Actievoorwaarden",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Actievoorwaarden",
+    "menu_slug": "actievoorwaarden",
+    "parent_slug": "teksten",
+    "advanced_configuration": false,
+    "icon_url": "",
+    "menu_title": "",
+    "position": null,
+    "redirect": false,
+    "description": "",
+    "update_button": "Updaten",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": false,
+    "_parent": 258,
+    "modified": 1705569270
+}

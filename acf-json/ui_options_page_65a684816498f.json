@@ -1,0 +1,23 @@
+{
+    "key": "ui_options_page_65a684816498f",
+    "title": "Wist je dat",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Wist je dat",
+    "menu_slug": "wist-je-dat",
+    "parent_slug": "teksten",
+    "advanced_configuration": 1,
+    "icon_url": "",
+    "menu_title": "",
+    "position": 9,
+    "redirect": false,
+    "description": "",
+    "update_button": "Update",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": 0,
+    "_parent": 258,
+    "modified": 1705568236
+}

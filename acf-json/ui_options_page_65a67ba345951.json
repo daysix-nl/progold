@@ -1,0 +1,23 @@
+{
+    "key": "ui_options_page_65a67ba345951",
+    "title": "Troostprijs",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Troostprijs",
+    "menu_slug": "troostprijs-teksten",
+    "parent_slug": "teksten",
+    "advanced_configuration": 1,
+    "icon_url": "",
+    "menu_title": "",
+    "position": 4,
+    "redirect": false,
+    "description": "",
+    "update_button": "Update",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": 0,
+    "_parent": 258,
+    "modified": 1705568275
+}

@@ -1,0 +1,48 @@
+// accordion
+.accordion-item {
+
+    border-bottom: 0px solid #707070;
+
+    .accordion {
+
+        cursor: pointer;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        transition-delay: 0.2s;
+        transition-duration: 0s;
+        border-radius: 10px 10px 10px 10px;
+
+        &::after {
+            content: "+";
+            color: #092950;
+            margin-left: auto;
+            display: block;
+            z-index: 6;
+            font-size: 28px;
+            transition-duration: 0.3s;
+        }
+
+        &.active {
+            transition-delay: 0s;
+            transition: 0s;
+            border-radius: 10px 10px 0px 0px;
+
+            &::after {
+                content: "+";
+                rotate: 45deg;
+                transition-duration: 0.3s;
+            }
+        }
+    }
+
+    .panel {
+        // border-radius: 0 0 25px 25px;
+        padding: 0 0px;
+
+        overflow: hidden;
+        height: 0;
+        transition: height 0.2s ease-out;
+    }
+}

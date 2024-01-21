@@ -1,0 +1,23 @@
+.gradient {
+    background: rgba(63, 94, 251, 0);
+    background: -moz-radial-gradient(circle, rgba(63, 94, 251, 0.331) 0%, rgba(252, 70, 107, 0) 100%);
+    background: -webkit-radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 0) 100%);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f5efb", endColorstr="#fc466b", GradientType=1);
+}
+
+.blurr {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(5px);
+
+}
+
+.bg-half {
+    background: rgb(252, 70, 107);
+    background: -moz-linear-gradient(180deg, rgba(252, 70, 107, 0) 65%, rgba(215, 220, 222, 1) 65%);
+    background: -webkit-linear-gradient(180deg, rgba(252, 70, 107, 0) 65%, rgba(215, 220, 222, 1) 65%);
+    background: linear-gradient(180deg, rgba(252, 70, 107, 0) 65%, rgba(215, 220, 222, 1) 65%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fc466b", endColorstr="#d7dcde", GradientType=1);
+}

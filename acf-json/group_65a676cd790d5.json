@@ -1,0 +1,709 @@
+{
+    "key": "group_65a676cd790d5",
+    "title": "Home teksten",
+    "fields": [
+        {
+            "key": "field_65a6772789027",
+            "label": "Januari",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6793bdb60d",
+            "label": "Titel",
+            "name": "home_titel_1",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a679b5ee9a6",
+            "label": "Tekst",
+            "name": "home_tekst_1",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677a3dd968",
+            "label": "Februari",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6796bdb60e",
+            "label": "Titel",
+            "name": "home_titel_2",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a24fcf39",
+            "label": "Tekst",
+            "name": "home_tekst_2",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677aadd969",
+            "label": "Maart",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6797bdb60f",
+            "label": "Titel",
+            "name": "home_titel_3",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a2bfcf3a",
+            "label": "Tekst",
+            "name": "home_tekst_3",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677b5d230a",
+            "label": "April",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6797edb610",
+            "label": "Titel",
+            "name": "home_titel_4",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a2ffcf3b",
+            "label": "Tekst",
+            "name": "home_tekst_4",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677bad230b",
+            "label": "Mei",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a67982db611",
+            "label": "Titel",
+            "name": "home_titel_5",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a33fcf3c",
+            "label": "Tekst",
+            "name": "home_tekst_5",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677bed230c",
+            "label": "Juni",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a67987db612",
+            "label": "Titel",
+            "name": "home_titel_6",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a38fcf3d",
+            "label": "Tekst",
+            "name": "home_tekst_6",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677c1d230d",
+            "label": "Juli",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6798cdb613",
+            "label": "Titel",
+            "name": "home_titel_7",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a3efcf3e",
+            "label": "Tekst",
+            "name": "home_tekst_7",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677c5d230e",
+            "label": "Augustus",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6798fdb614",
+            "label": "Titel",
+            "name": "home_titel_8",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a41fcf3f",
+            "label": "Tekst",
+            "name": "home_tekst_8",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677cad230f",
+            "label": "September",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a67992db615",
+            "label": "Titel",
+            "name": "home_titel_9",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a45fcf40",
+            "label": "Tekst",
+            "name": "home_tekst_9",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677d1d2310",
+            "label": "Oktober",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a67995db616",
+            "label": "Titel",
+            "name": "home_titel_10",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a49fcf41",
+            "label": "Tekst",
+            "name": "home_tekst_10",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677d6d2311",
+            "label": "November",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a67999db617",
+            "label": "Titel",
+            "name": "home_titel_11",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a4dfcf42",
+            "label": "Tekst",
+            "name": "home_tekst_11",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_65a677dcd2312",
+            "label": "December",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_65a6799ddb618",
+            "label": "Titel",
+            "name": "home_titel_12",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Check je wincode!",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_65a67a58fcf43",
+            "label": "Tekst",
+            "name": "home_tekst_12",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Vier met ons het jubileum en maak kans op fantastische prijzen waaronder <b>10x een Systainer gevuld met ProGold artikelen t.w.v. meer dan € 200,- of één van de 100 andere prijzen.<\/b> Vul je e-mailadres in en accepteer de actievoorwaarden, je unieke code staat er al. Druk op check en je weet direct of je wat gewonnen hebt.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 0,
+            "delay": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "home-teksten"
+            }
+        ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1705412305
+}
