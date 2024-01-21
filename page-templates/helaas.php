@@ -75,25 +75,25 @@
                 <div class="absolute hidden md:flex justify-between top-0 md:left-[-280px] md:right-[-240px] lg:left-[-75px] lg:right-[-30px] bottom-0 z-[1]">
                     <div class="h-full w-[380px] relative">
                         <div class="absolute top-[40px] right-[0px]">
-                            <img src="/wp-content/themes/progold/img/local/Group 30.png" alt="">
+                            <img class="par-bottom" src="/wp-content/themes/progold/img/local/Group 30.png" alt="">
                         </div>
                         <div class="absolute top-[1080px] right-[-65px]">
-                            <img src="/wp-content/themes/progold/img/local/verfrol-vilt.png" alt="">
+                            <img class="par-bottom" src="/wp-content/themes/progold/img/local/verfrol-vilt.png" alt="">
                         </div>
 
                         <div class="absolute top-[1966px] right-[-85px]">
-                            <img src="/wp-content/themes/progold/img/local/roller.png" alt="">
+                            <img class="par-bottom" src="/wp-content/themes/progold/img/local/roller.png" alt="">
                         </div>
                     </div>
                     <div class="h-full w-[380px] relative">
                         <div class="absolute top-[240px] left-[-45px]">
-                            <img src="/wp-content/themes/progold/img/local/Group 31.png" alt="">
+                            <img class="par-top" src="/wp-content/themes/progold/img/local/Group 31.png" alt="">
                         </div>
                         <div class="absolute top-[750px] right-[30px]">
-                            <img src="/wp-content/themes/progold/img/local/progold-non_crack.png" alt="">
+                            <img class="par-top" src="/wp-content/themes/progold/img/local/progold-non_crack.png" alt="">
                         </div>
                         <div class="absolute top-[2250px] left-[50px] right-[-220px]">
-                            <img src="/wp-content/themes/progold/img/local/Group 32.png" alt="">
+                            <img class="par-top" src="/wp-content/themes/progold/img/local/Group 32.png" alt="">
                         </div>
                     </div>
                 </div>
