@@ -126,14 +126,26 @@
                         <div class="absolute top-[1400px] left-[-200px]">
                             <img src="/wp-content/themes/progold/img/local/confetti-d.png" alt="">
                         </div>
+
+                        <div class="absolute top-[2200px] left-[-250px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[2900px] right-[-80px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
+                        </div>
                     </div>
                 </div>
              </div>
             <!-- FOOTER -->
-             <div class="mt-[460px] w-full flex justify-center bg-half">
+             <div class="mt-[460px] w-full flex justify-center bg-half relative">
                 <div class="container">
                     <img src="/wp-content/themes/progold/img/local/systainer.png" alt="">
                 </div>
+
+               <div class="absolute top-[500px] left-1/2-translate-x-1/2 hidden md:flex">
+                    <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
+               </div>
                
             </div>
         </div>

@@ -21,3 +21,16 @@
     background: linear-gradient(180deg, rgba(252, 70, 107, 0) 65%, rgba(215, 220, 222, 1) 65%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fc466b", endColorstr="#d7dcde", GradientType=1);
 }
+
+.bg-confetti {
+    @media (min-width: 992px) {
+        background-image: url("/wp-content/themes/progold/img/local/confetti-m.png");
+        background-repeat: repeat-y;
+        background-size: 120% auto;
+        background-position: left;
+        margin-top: -150px;
+        padding-top: 150px;
+        z-index: 800;
+        position: relative;
+    }
+}

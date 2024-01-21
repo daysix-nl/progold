@@ -7,8 +7,8 @@
  get_header(); ?>
 
 
-<main class="overflow-hidden">
-    <section class="relative z-[3] mt-6 overflow-hidden ">
+<main class="">
+    <section class="relative z-[3] mt-6 overflow-hidden bg-confetti">
         <div class="relative overflow-hidden">
             <div class="container relative">
                 <!-- CONTENT -->
@@ -88,8 +88,21 @@
                             <img src="/wp-content/themes/progold/img/local/verfrol-vilt.png" alt="">
                         </div>
 
-                        <div class="absolute top-[1966px] right-[-85px]">
+                        <div class="absolute top-[1966px] left-[-85px] right-[-85px]">
                             <img src="/wp-content/themes/progold/img/local/roller.png" alt="">
+                        </div>
+
+                        <!-- confetti -->
+                        <div class="absolute top-[490px] left-[10px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[950px] left-[60px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[2200px] left-[-40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
                         </div>
                     </div>
                     <div class="h-full w-[380px] relative">
@@ -102,14 +115,37 @@
                         <div class="absolute top-[2250px] left-[50px] right-[-220px]">
                             <img src="/wp-content/themes/progold/img/local/Group 32.png" alt="">
                         </div>
+
+                        <!-- confetti - right -->
+                        <div class="absolute top-[40px] right-[40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
+                        </div>
+                        <div class="absolute top-[950px] right-[-40px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
+                        </div>
+                        <div class="absolute top-[1400px] left-[-200px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-d.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[2200px] left-[-250px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
+                        </div>
+
+                        <div class="absolute top-[2900px] right-[-80px]">
+                            <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
+                        </div>
                     </div>
                 </div>
              </div>
             <!-- FOOTER -->
-             <div class="mt-[400px] w-full flex justify-center bg-half">
+             <div class="mt-[460px] w-full flex justify-center bg-half relative">
                 <div class="container">
                     <img src="/wp-content/themes/progold/img/local/systainer.png" alt="">
                 </div>
+
+               <div class="absolute top-[500px] left-1/2-translate-x-1/2 hidden md:flex">
+                    <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
+               </div>
                
             </div>
         </div>
