@@ -4,7 +4,15 @@
  */
 
 
- get_header(); ?>
+ get_header(); 
+ 
+    if (isset($_GET['code'])) {
+        $code = $_GET['code'];
+        $codeChars = str_split($code);
+    } else {
+        $codeChars = array_fill(0, 9, '');
+    }
+ ?>
 
 <main class="overflow-hidden relative">
     <section class="relative z-[3] mt-6 overflow-hidden ">
@@ -19,7 +27,16 @@
                         <div class="relative w-full rounded-[10px] px-[25px] py-[30px] overflow-hidden mt-2 ">
                             <div class="blurr absolute top-0 left-0 right-0 bottom-0 z-[3]"></div>
                             <div class="relative z-[6] form">
-                                <?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax="true"]'); ?>
+                                <div class="relative">
+                                    <?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax="true"]'); ?>
+                                    <div id="form">
+                                        <?php
+                                            for ($i = 0; $i < 9; $i++) {
+                                                echo '<input class="input-code" type="text" maxLength="1" size="1" value="' . (isset($codeChars[$i]) ? htmlspecialchars($codeChars[$i]) : '') . '" />';
+                                            }
+                                        ?>
+                                    </div>
+                                </div>
                                 <a href="/actievoorwaarden" class="text-14 leading-14 font-light text-white mt-[25px] block hover:text-[#092950] w-fit">Bekijk hier de actievoorwaarden</a>
                             </div>
                         </div>

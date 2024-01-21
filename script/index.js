@@ -40,3 +40,59 @@ try {
     overflow: true,
   });
 } catch (error) {}
+
+document.addEventListener("DOMContentLoaded", function () {
+  "use strict";
+
+  const body = document.body;
+  function goToNextInput(e) {
+    var key = e.which,
+      t = e.target,
+      sib = t.nextElementSibling;
+
+    if (key === 9 || key === 8) {
+      return true;
+    }
+
+    if (!sib || sib.tagName.toLowerCase() !== "input") {
+      sib = body.querySelector(".input-code");
+    }
+    sib.select();
+    sib.focus();
+
+    var inputs = document.querySelectorAll(".input-code");
+    var values = Array.prototype.map.call(inputs, function (input) {
+      return input.value;
+    });
+
+    var str = values.join("");
+
+    var otherInput = document.getElementById("input_1_1");
+    if (otherInput) {
+      otherInput.value = str;
+    }
+  }
+
+  function onKeyDown(e) {
+    var key = e.which;
+
+    if (key === 9 || key === 8 || key) {
+      return true;
+    }
+
+    e.preventDefault();
+    return false;
+  }
+
+  function onFocus(e) {
+    e.target.select();
+  }
+
+  var inputs = document.querySelectorAll(".input-code");
+
+  inputs.forEach(function (input) {
+    input.addEventListener("keyup", goToNextInput);
+    input.addEventListener("keydown", onKeyDown);
+    input.addEventListener("click", onFocus);
+  });
+});
