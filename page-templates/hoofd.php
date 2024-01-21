@@ -4,7 +4,9 @@
  */
 
 
- get_header(); ?>
+ get_header(); 
+ $get_number_month = date('n', mktime(0, 0, 0, date('n'), 22));
+ ?>
 
 
 <main class="">
@@ -14,9 +16,9 @@
                 <!-- CONTENT -->
                 <div class="w-full md:w-[400px] lg:w-[517px] mx-auto relative z-[2]">
                     <!-- FORMULIER -->
-                    <h1 class="text-60 leading-60 md:text-86 md:leading-86 lg:text-111 lg:leading-111 uppercase font-semibold text-[#709138]"><?php the_field('hoofdprijs_titel_1', 'option');?></h1>
+                    <h1 class="text-60 leading-60 md:text-86 md:leading-86 lg:text-111 lg:leading-111 uppercase font-semibold text-[#709138]"><?php the_field("hoofdprijs_titel_$get_number_month", 'option');?></h1>
                     <div class="min-h-[570px]">
-                        <div class="text-16 leading-26 text-white font-light tracking-wide mt-2 px-[10px]"><?php the_field('hoofdprijs_tekst_1', 'option');?></div>
+                        <div class="text-16 leading-26 text-white font-light tracking-wide mt-2 px-[10px]"><?php the_field("hoofdprijs_tekst_$get_number_month", 'option');?></div>
                         <div class="relative w-full rounded-[10px] px-[25px] py-[30px] overflow-hidden mt-2 ">
                             <div class="blurr absolute top-0 left-0 right-0 bottom-0 z-[3]"></div>
                             <div class="relative z-[6] formtwee">
