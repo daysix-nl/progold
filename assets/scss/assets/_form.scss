@@ -77,7 +77,18 @@
         display: none !important;
     }
 
-    #field_1_6 input {
+    #field_1_6 input,
+    #field_3_6 input,
+    #field_4_6 input,
+    #field_5_6 input,
+    #field_6_6 input,
+    #field_7_6 input,
+    #field_8_6 input,
+    #field_9_6 input,
+    #field_10_6 input,
+    #field_11_6 input,
+    #field_12_6 input,
+    #field_13_6 input {
         background: transparent !important;
         border: 2px solid transparent !important;
         border-bottom: 2px solid #859DB5 !important;
@@ -168,6 +179,16 @@
     font-size: 8px !important;
     margin-top: 0px !important;
     padding: 0px !important;
+}
+
+.gform_wrapper.gravity-theme .gfield_error .gfield_repeater_cell label,
+.gform_wrapper.gravity-theme .gfield_error label,
+.gform_wrapper.gravity-theme .gfield_error legend,
+.gform_wrapper.gravity-theme .gfield_validation_message,
+.gform_wrapper.gravity-theme .validation_message,
+.gform_wrapper.gravity-theme [aria-invalid=true]+label,
+.gform_wrapper.gravity-theme label+[aria-invalid=true] {
+    color: #b8b8b8 !important;
 }
 
 #form {
