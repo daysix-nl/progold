@@ -26,7 +26,7 @@
                         <div class="relative w-full rounded-[10px] px-[25px] py-[30px] overflow-hidden mt-2 ">
                             <div class="blurr absolute top-0 left-0 right-0 bottom-0 z-[3]"></div>
                             <div class="relative z-[6] formtwee">
-                                <?php echo do_shortcode('[gravityform id="14" title="false" description="false" ajax="true"]'); ?>
+                                <?php echo do_shortcode('[gravityform id="15" title="false" description="false" ajax="true"]'); ?>
                             </div>
                         </div>              
                     </div>
