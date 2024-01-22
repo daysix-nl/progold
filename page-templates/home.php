@@ -12,50 +12,6 @@
     } else {
         $codeChars = array_fill(0, 9, '');
     }
-
-// $get_number_month = date('n', mktime(0, 0, 0, date('n'), 22));
-
-// $get_number_form = $get_number_month;
-
-// switch ($get_number_month) {
-//     case 1:
-//         $get_number_form = 1;
-//         break;
-//     case 2:
-//         $get_number_form = 3;
-//         break;
-//     case 3:
-//         $get_number_form = 4;
-//         break;
-//     case 4:
-//         $get_number_form = 5;
-//         break;
-//     case 5:
-//         $get_number_form = 6;
-//         break;
-//     case 6:
-//         $get_number_form = 7;
-//         break;
-//     case 7:
-//         $get_number_form = 8;
-//         break;
-//     case 8:
-//         $get_number_form = 9;
-//         break;
-//     case 9:
-//         $get_number_form = 10;
-//         break;
-//     case 10:
-//         $get_number_form = 11;
-//         break;
-//     case 11:
-//         $get_number_form = 12;
-//         break;
-//     case 12:
-//         $get_number_form = 13;
-//         break;
-// }
-
 ?>
  
 <main class="overflow-hidden relative">
@@ -65,9 +21,9 @@
                 <!-- CONTENT -->
                 <div class="w-full md:w-[400px] lg:w-[517px] mx-auto relative z-[2]">
                     <!-- FORMULIER -->
-                    <h1 class="text-60 leading-60 md:text-86 md:leading-86 lg:text-111 lg:leading-111 uppercase font-semibold text-[#709138]"><?php the_field("home_titel_1", 'option');?></h1>
+                    <h1 class="text-60 leading-60 md:text-86 md:leading-86 lg:text-111 lg:leading-111 uppercase font-semibold text-[#709138]"><?php the_field("home_titel_2", 'option');?></h1>
                     <div class="min-h-[570px]">
-                        <div class="text-16 leading-26 text-white font-light tracking-wide mt-2 px-[10px]"><?php the_field("home_tekst_1", 'option');?></div>
+                        <div class="text-16 leading-26 text-white font-light tracking-wide mt-2 px-[10px]"><?php the_field("home_tekst_2", 'option');?></div>
                         <div class="relative w-full rounded-[10px] px-[25px] py-[30px] overflow-hidden mt-2 ">
                             <div class="blurr absolute top-0 left-0 right-0 bottom-0 z-[3]"></div>
                             <div class="relative z-[6] form">
@@ -116,12 +72,12 @@
                     </div>
                     <!-- WIST JE DAT -->
                     <?php
-                    $image = get_field('weetje_afbeelding_1', 'option');
+                    $image = get_field('weetje_afbeelding_2', 'option');
                     $image_url = isset($image['url']) ? esc_url($image['url']) : '';
                     $image_alt = isset($image['alt']) ? esc_attr($image['alt']) : '';
                     ?>
                     <?php
-                    $link = get_field('weetje_link_1', 'option');
+                    $link = get_field('weetje_link_2', 'option');
                     $link_url = isset($link['url']) ? esc_url($link['url']) : '';
                     $link_text = isset($link['title']) ? esc_html($link['title']) : '';
                     $link_target = isset($link['target']) ? esc_attr($link['target']) : '';
@@ -130,7 +86,7 @@
                         <h2 class="text-30 leading-30 lg:text-45 lg:leading-45 font-semibold text-white tracking-wide pb-[30px]">Wist je dat</h2>
                         <div class="bg-[#709138] w-full rounded-[10px] px-[25px] lg:px-[25px] py-[30px] lg:py-3 xl:py-4 flex items-end">
                             <div class="flex flex-col justify-between">
-                                <div class="text-16 leading-26 text-white font-light tracking-wide"><?php the_field('weetje_tekst_1', 'option');?></div>
+                                <div class="text-16 leading-26 text-white font-light tracking-wide"><?php the_field('weetje_tekst_2', 'option');?></div>
                                 <a href="<?php echo $link_url; ?>" class="h-[51px] px-[30px] rounded-[10px] bg-[#092950] w-fit text-white flex items-center mt-[40px] border-[1px] border-[#092950] hover:border-white hover:bg-transparent font-medium tracking-wide" target="<?php echo $link_target; ?>"><?php echo $link_text; ?></a>
                             </div>
                             <div class="h-full flex items-end w-[270px] px-[35px]">
