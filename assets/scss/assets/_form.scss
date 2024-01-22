@@ -168,8 +168,8 @@
 
 .gfield_validation_message {
     position: absolute !important;
-    top: 1px !important;
-    left: 10px !important;
+    top: -2px !important;
+    left: 0px !important;
 }
 
 .gform_wrapper.gravity-theme .gfield_validation_message,
@@ -244,9 +244,20 @@
     }
 }
 
-#validation_message_1_1 {
+#validation_message_1_1,
+#validation_message_3_1,
+#validation_message_4_1,
+#validation_message_5_1,
+#validation_message_6_1,
+#validation_message_7_1,
+#validation_message_8_1,
+#validation_message_9_1,
+#validation_message_10_1,
+#validation_message_11_1,
+#validation_message_12_1,
+#validation_message_13_1 {
     z-index: 1;
-    top: 56px !important;
+    top: 58px !important;
     left: 0px !important;
     font-size: 12px !important;
     line-height: 10px !important;
