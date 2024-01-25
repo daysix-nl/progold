@@ -96,59 +96,59 @@
                     </div>
                 </div>
                 <!-- ELEMENTEN -->
-                <div class="absolute hidden md:flex justify-between top-0 md:left-[-280px] md:right-[-240px] lg:left-[-75px] lg:right-[-30px] bottom-0 z-[1]">
+                <div class="absolute flex justify-between top-0 md:left-[-280px] md:right-[-240px] lg:left-[-75px] lg:right-[-30px] bottom-0 z-[1]">
                     <div class="h-full w-[380px] relative">
-                        <div class="absolute top-[40px] right-[0px]">
+                        <div class="absolute rotate-[-80deg] md:rotate-[unset] scale-[0.5] md:scale-[unset] top-[410px] md:top-[40px] right-[40px] md:right-[0px]">
                             <img class="par-bottom" src="/wp-content/themes/progold/img/local/Group 30.png" alt="">
                         </div>
-                        <div class="absolute top-[1080px] right-[-65px]">
+                        <div class="absolute scale-[0.5] md:scale-[unset] top-[880px] md:top-[1080px] left-[-200px] md:left-[unset] md:right-[-65px]">
                             <img class="par-bottom" src="/wp-content/themes/progold/img/local/verfrol-vilt.png" alt="">
                         </div>
 
-                        <div class="absolute top-[1966px] left-[-85px] right-[-85px]">
-                            <img class="par-bottom" src="/wp-content/themes/progold/img/local/roller.png" alt="">
+                        <div class="absolute top-[1966px] left-[-250px] md:left-[-85px] right-[-85px] scale-[0.5] md:scale-[unset]">
+                            <img class="par-bottom" src="/wp-content/themes/progold/img/local/rollerv2.png" alt="">
                         </div>
 
                         <!-- confetti -->
-                        <div class="absolute top-[490px] left-[10px]">
+                        <div class="absolute hidden md:block md:top-[490px] md:left-[10px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
                         </div>
 
-                        <div class="absolute top-[950px] left-[60px]">
+                        <div class="absolute top-[650px] right-[-55px] md:right-[unset] md:top-[950px] md:left-[60px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
                         </div>
 
-                        <div class="absolute top-[2200px] left-[-40px]">
+                        <div class="absolute top-[1355px] md:top-[2200px] right-[-55px] md:right-[unset] md:left-[-40px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
                         </div>
                     </div>
                     <div class="h-full w-[380px] relative">
-                        <div class="absolute top-[240px] left-[-45px]">
+                        <div class="absolute scale-[0.5] md:scale-[unset] top-[70px] md:top-[240px] left-[-211px] md:left-[-45px]">
                             <img class="par-top" src="/wp-content/themes/progold/img/local/Group 31.png" alt="">
                         </div>
-                        <div class="absolute top-[750px] right-[30px]">
+                        <div class="absolute rotate-[57deg] md:rotate-[unset]  scale-[0.3] md:scale-[unset] top-[975px] md:top-[750px] left-[-360px] md:left-[unset] md:right-[30px]">
                             <img class="par-top" src="/wp-content/themes/progold/img/local/progold-non_crack.png" alt="">
                         </div>
-                        <div class="absolute top-[2250px] left-[50px] right-[-220px]">
+                        <div class="absolute top-[2150px] md:top-[2250px] left-[-350px] md:left-[50px] right-[-220px] scale-[0.5] md:scale-[unset]">
                             <img class="par-top" src="/wp-content/themes/progold/img/local/Group 32.png" alt="">
                         </div>
 
                         <!-- confetti - right -->
-                        <div class="absolute top-[40px] right-[40px]">
+                        <div class="absolute top-[2220px] left-[-430px] md:left-[unset] md:top-[40px] md:right-[40px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-a.png" alt="">
                         </div>
-                        <div class="absolute top-[950px] right-[-40px]">
+                        <div class="absolute hidden md:block md:top-[950px] md:right-[-40px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-c.png" alt="">
                         </div>
-                        <div class="absolute top-[1400px] left-[-200px]">
+                        <div class="absolute top-[1380px] left-[-480px] md:left-[unset] md:top-[1400px] md:left-[-200px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-d.png" alt="">
                         </div>
 
-                        <div class="absolute top-[2200px] left-[-250px]">
+                        <div class="absolute top-[2050px] left-[-200px] md:left-[unset] md:top-[2200px] md:left-[-250px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
                         </div>
 
-                        <div class="absolute top-[2900px] right-[-80px]">
+                        <div class="absolute top-[2600px] left-[-100px] md:left-[unset] md:top-[2900px] md:right-[-80px] scale-[0.5] md:scale-[unset]">
                             <img src="/wp-content/themes/progold/img/local/confetti-b.png" alt="">
                         </div>
                     </div>
@@ -157,7 +157,7 @@
             <!-- FOOTER -->
              <div class="mt-[460px] w-full flex justify-center bg-half relative">
                 <div class="container">
-                    <img src="/wp-content/themes/progold/img/local/systainer.png" alt="">
+                    <img src="/wp-content/themes/progold/img/local/systainerv2.png" alt="">
                     <div class="pb-[30px]">
                         <svg id="ppg" xmlns="http://www.w3.org/2000/svg" width="47" height="37.142" viewBox="0 0 47 37.142">
                         <g id="Group_28" data-name="Group 28">
@@ -171,7 +171,7 @@
                     </div>
                 </div>
 
-               <div class="absolute top-[500px] left-1/2-translate-x-1/2 hidden md:flex">
+               <div class="absolute md:top-[500px] left-1/2-translate-x-1/2 hidden lg:flex">
                     <img src="/wp-content/themes/progold/img/local/confetti-e.png" alt="">
                </div>
                

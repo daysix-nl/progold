@@ -22,15 +22,15 @@
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fc466b", endColorstr="#d7dcde", GradientType=1);
 }
 
-.bg-confetti {
-    @media (min-width: 992px) {
-        background-image: url("/wp-content/themes/progold/img/local/confetti-m.png");
-        background-repeat: repeat-y;
-        background-size: 120% auto;
-        background-position: left;
-        margin-top: -150px;
-        padding-top: 150px;
-        z-index: 800;
-        position: relative;
-    }
-}
+// .bg-confetti {
+//     @media (min-width: 992px) {
+//         background-image: url("/wp-content/themes/progold/img/local/confetti-m.png");
+//         background-repeat: repeat-y;
+//         background-size: 120% auto;
+//         background-position: left;
+//         margin-top: -150px;
+//         padding-top: 150px;
+//         z-index: 800;
+//         position: relative;
+//     }
+// }

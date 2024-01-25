@@ -20,7 +20,7 @@
             <!-- FOOTER -->
              <div class="mt-[400px] w-full flex justify-center bg-half">
                 <div class="container">
-                    <img src="/wp-content/themes/progold/img/local/systainer.png" alt="">
+                    <img src="/wp-content/themes/progold/img/local/systainerv2.png" alt="">
                     <div class="pb-[30px]">
                         <svg id="ppg" xmlns="http://www.w3.org/2000/svg" width="47" height="37.142" viewBox="0 0 47 37.142">
                         <g id="Group_28" data-name="Group 28">
