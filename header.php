@@ -21,6 +21,15 @@
     <title><?php bloginfo( 'name' ); ?></title>
     <?php wp_head(); ?>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3KWVBTRCXB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3KWVBTRCXB');
+</script>
 <body <?php body_class( 'page-block bg-body relative' ); ?>>
 <header class="z-[999] relative">
 <div class="container flex justify-between pt-5">
