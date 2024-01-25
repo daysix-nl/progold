@@ -582,18 +582,18 @@ add_action('init', 'redirect_backend_to_wp_login');
 |
 */
 
-function custom_wp_mail_from($original_email_address) {
-    // Vervang 'jouw@emailadres.com' door het gewenste specifieke e-mailadres
-    return 'noreply@jubileum.progold.nl';
-}
+// function custom_wp_mail_from($original_email_address) {
+//     // Vervang 'jouw@emailadres.com' door het gewenste specifieke e-mailadres
+//     return 'noreply@jubileum.progold.nl';
+// }
 
-function custom_wp_mail_from_name($original_email_from) {
-    // Vervang 'Jouw Naam' door de gewenste afzender naam
-    return 'ProGold jubileum winactie';
-}
+// function custom_wp_mail_from_name($original_email_from) {
+//     // Vervang 'Jouw Naam' door de gewenste afzender naam
+//     return 'ProGold jubileum winactie';
+// }
 
-add_filter('wp_mail_from', 'custom_wp_mail_from');
-add_filter('wp_mail_from_name', 'custom_wp_mail_from_name');
+// add_filter('wp_mail_from', 'custom_wp_mail_from');
+// add_filter('wp_mail_from_name', 'custom_wp_mail_from_name');
 
 
 /*

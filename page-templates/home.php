@@ -28,7 +28,7 @@
                             <div class="blurr absolute top-0 left-0 right-0 bottom-0 z-[3]"></div>
                             <div class="relative z-[6] form">
                                 <div class="relative">
-                                    <?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax="true"]'); ?>
+                                    <?php echo do_shortcode('[gravityform id="3" title="false" description="false" ajax="true"]'); ?>
                                     <div id="form">
                                         <?php
                                             for ($i = 0; $i < 9; $i++) {
