@@ -83,7 +83,7 @@
                     </div>
                 </div>
                  <!-- ELEMENTEN -->
-                <div class="absolute flex justify-between top-0 md:left-[-280px] md:right-[-240px] lg:left-[-75px] lg:right-[-30px] bottom-0 z-[1]">
+                <div class="absolute flex justify-between top-[75px] md:top-0 md:left-[-280px] md:right-[-240px] lg:left-[-75px] lg:right-[-30px] bottom-0 z-[1]">
                     <div class="h-full w-[380px] relative">
                         <div class="absolute rotate-[-80deg] md:rotate-[unset] scale-[0.5] md:scale-[unset] top-[410px] md:top-[40px] right-[40px] md:right-[0px]">
                             <img class="par-bottom" src="/wp-content/themes/progold/img/local/Group 30.png" alt="">
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                     <div class="h-full w-[380px] relative">
-                        <div class="absolute scale-[0.5] md:scale-[unset] top-[70px] md:top-[240px] left-[-211px] md:left-[-45px]">
+                        <div class="absolute scale-[0.5] md:scale-[unset] top-[-5px] md:top-[240px] left-[-211px] md:left-[-45px]">
                             <img class="par-top" src="/wp-content/themes/progold/img/local/Group 31.png" alt="">
                         </div>
                         <div class="absolute rotate-[57deg] md:rotate-[unset]  scale-[0.3] md:scale-[unset] top-[975px] md:top-[750px] left-[-360px] md:left-[unset] md:right-[30px]">
